@@ -1,4 +1,4 @@
-<img width="2816" height="1536" alt="Gemini_Generated_Image_h5023ch5023ch502" src="https://github.com/user-attachments/assets/52da15e0-ead2-4796-a562-a0f74946af49" /> 🔥 **Forge AI – Autonomous Full-Stack Code Generation Platform**
+ 🔥 **Forge AI – Autonomous Full-Stack Code Generation Platform**
 
 ---
 
@@ -60,17 +60,11 @@ Forge AI solves these challenges through a **multi‑agent architecture** coordi
 ---
 
 #  **Key Features**
-
-
-
-
 <img width="2816" height="1536" alt="Gemini_Generated_Image_h5023ch5023ch502" src="https://github.com/user-attachments/assets/0fecb6af-7f33-4977-a2c5-1c0e8671f55a" />
 ---
 
 #  **System Architecture Overview**
-
-
-
+![Uploading Gemini_Generated_Image_v0hpvhv0hpvhv0hp.png…]()
 
 ---
 
