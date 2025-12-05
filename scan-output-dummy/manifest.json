@@ -1,0 +1,21 @@
+{
+  "project_root": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend",
+  "scan_timestamp": "2025-12-05T22:38:36.848682",
+  "framework": "react",
+  "routes": [],
+  "pages": [],
+  "components": [],
+  "api_calls": [],
+  "suggested_backend_endpoints": [],
+  "integration_hints": {
+    "detected_framework": "react",
+    "total_components": 0,
+    "total_routes": 0,
+    "architecture": "React Application"
+  },
+  "file_inventory": {
+    "total_files": 4,
+    "total_size_bytes": 667,
+    "scan_timestamp": "2025-12-05T22:38:36.400683"
+  }
+}

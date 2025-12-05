@@ -1,0 +1,72 @@
+{
+  "file_summaries": [
+    {
+      "file_path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\index.html",
+      "purpose": "Code file",
+      "key_exports": [],
+      "api_dependencies": [],
+      "framework": null
+    },
+    {
+      "file_path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\package.json",
+      "purpose": "using react",
+      "key_exports": [],
+      "api_dependencies": [],
+      "framework": "react"
+    },
+    {
+      "file_path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src\\App.js",
+      "purpose": "using react",
+      "key_exports": [],
+      "api_dependencies": [],
+      "framework": "react"
+    },
+    {
+      "file_path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src\\components\\Hello.jsx",
+      "purpose": "using react",
+      "key_exports": [],
+      "api_dependencies": [],
+      "framework": "react"
+    }
+  ],
+  "folder_summaries": [
+    {
+      "folder_path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend",
+      "purpose": "Contains 2 file(s) | Framework: react",
+      "file_count": 2,
+      "key_files": [
+        "index.html",
+        "package.json"
+      ]
+    },
+    {
+      "folder_path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src",
+      "purpose": "Contains 1 file(s) | Framework: react",
+      "file_count": 1,
+      "key_files": [
+        "App.js"
+      ]
+    },
+    {
+      "folder_path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src\\components",
+      "purpose": "Contains 1 file(s) | Framework: react",
+      "file_count": 1,
+      "key_files": [
+        "Hello.jsx"
+      ]
+    }
+  ],
+  "project_summary": {
+    "project_root": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend",
+    "framework": "react",
+    "architecture": "React Application",
+    "key_components": [
+      "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\index.html",
+      "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\package.json",
+      "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src\\App.js",
+      "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src\\components\\Hello.jsx"
+    ],
+    "api_endpoints_used": [],
+    "suggested_backend_endpoints": []
+  }
+}

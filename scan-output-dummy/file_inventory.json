@@ -1,0 +1,57 @@
+{
+  "project_root": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend",
+  "scan_timestamp": "2025-12-05T22:38:36.400683",
+  "total_files": 4,
+  "total_size_bytes": 667,
+  "files": [
+    {
+      "path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\index.html",
+      "relative_path": "index.html",
+      "file_type": "html",
+      "extension": ".html",
+      "size_bytes": 206,
+      "last_modified": "2025-12-05T22:37:25.231744",
+      "sha256_hash": "aa195405d75b383fb55d109bc638de9dbdb3fd27fcfb78b1df45284bed1940db",
+      "mime_type": "text/html",
+      "is_binary": false,
+      "framework_hints": []
+    },
+    {
+      "path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\package.json",
+      "relative_path": "package.json",
+      "file_type": "json",
+      "extension": ".json",
+      "size_bytes": 137,
+      "last_modified": "2025-12-05T22:37:35.295221",
+      "sha256_hash": "28075fc381077568f4d2813a0650edf2759667b84894c9d5b7527cba2e6e0a48",
+      "mime_type": "application/json",
+      "is_binary": false,
+      "framework_hints": []
+    },
+    {
+      "path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src\\App.js",
+      "relative_path": "src\\App.js",
+      "file_type": "js",
+      "extension": ".js",
+      "size_bytes": 173,
+      "last_modified": "2025-12-05T22:37:21.584858",
+      "sha256_hash": "49b9af1637dc4ba488a5a15e26f7f78b17250bd2901b21d2b4aaec03cdd40996",
+      "mime_type": "application/javascript",
+      "is_binary": false,
+      "framework_hints": []
+    },
+    {
+      "path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\examples\\dummy_frontend\\src\\components\\Hello.jsx",
+      "relative_path": "src\\components\\Hello.jsx",
+      "file_type": "jsx",
+      "extension": ".jsx",
+      "size_bytes": 151,
+      "last_modified": "2025-12-05T22:37:18.492135",
+      "sha256_hash": "0b5a7a7f2ccad336fe9f8ddcabc47cd719956ee5eaa55be10f64c7106294b9a0",
+      "mime_type": null,
+      "is_binary": false,
+      "framework_hints": []
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,37 @@
+{
+  "project_root": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\tests\\fixtures\\sample_react",
+  "scan_timestamp": "2025-12-05T22:33:18.407388",
+  "total_files": 2,
+  "total_size_bytes": 1001,
+  "files": [
+    {
+      "path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\tests\\fixtures\\sample_react\\app.js",
+      "relative_path": "app.js",
+      "file_type": "js",
+      "extension": ".js",
+      "size_bytes": 771,
+      "last_modified": "2025-12-05T21:29:05.922101",
+      "sha256_hash": "d339fef9b1c36ce44e144437df8211e595db9bb6f77b36bd476927cc1871c19c",
+      "mime_type": "application/javascript",
+      "is_binary": true,
+      "framework_hints": [
+        "react"
+      ]
+    },
+    {
+      "path": "C:\\Users\\SAGAR\\Downloads\\FRONTEND - SCANNER\\tests\\fixtures\\sample_react\\package.json",
+      "relative_path": "package.json",
+      "file_type": "json",
+      "extension": ".json",
+      "size_bytes": 230,
+      "last_modified": "2025-12-05T21:30:50.173853",
+      "sha256_hash": "b9e83239a8d386b2cc228df58cab5dc7adb2293b869c7b06f7934240fb00dc1c",
+      "mime_type": "application/json",
+      "is_binary": true,
+      "framework_hints": [
+        "react"
+      ]
+    }
+  ],
+  "errors": []
+}
