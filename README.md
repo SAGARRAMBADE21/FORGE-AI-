@@ -1,10 +1,12 @@
-# 🔥 **Forge AI – Autonomous Full-Stack Code Generation Platform**
+<img width="2816" height="1536" alt="Gemini_Generated_Image_h5023ch5023ch502" src="https://github.com/user-attachments/assets/52da15e0-ead2-4796-a562-a0f74946af49" /> 🔥 **Forge AI – Autonomous Full-Stack Code Generation Platform**
 
 ---
 
 ### **1. System architecture**
+<img width="2816" height="1536" alt="forge  architecture" src="https://github.com/user-attachments/assets/087caf04-79a8-4e60-84ed-bc54629a3216" />
 
 ### **2. Frontend agent architecture**
+<img width="2816" height="1536" alt="fronted agent architecture" src="https://github.com/user-attachments/assets/a2fa9bb7-b425-4473-9ee6-818839f7a23b" />
 
 ###
 
@@ -59,80 +61,16 @@ Forge AI solves these challenges through a **multi‑agent architecture** coordi
 
 #  **Key Features**
 
-### **1. Frontend Scanner Agent (Phase 1)**
 
-* Recursively scans and understands React/Next/Vite/Vue/Svelte projects
-* Tree-sitter AST parsing for deep code intelligence
-* Generates file inventory, AST metadata, framework detection
-* Produces hierarchical summaries and project‑level manifest
-* Embeddings + vector store for semantic code search
-* Detects components, routes, hooks, API calls
 
-### **2. Backend Agent**
 
-* Generates APIs, controllers, services, middleware
-* Auto‑creates backend structure (FastAPI / Express.js)
-* Ensures compatibility with frontend expectations
-
-### **3. Database Agent**
-
-* Converts frontend + backend needs into SQL schemas
-* Auto-generates migrations and relationships
-* Ensures DB consistency across updates
-
-### **4. Integrator Agent**
-
-* Automatically links frontend, backend, and database
-* Fixes imports, routes, naming inconsistencies, API mismatches
-* Maintains project-wide integrity
-
-### **5. Super-Agent Orchestrator**
-
-* Acts as the technical lead coordinating all agents
-* Breaks down tasks, validates outputs, orchestrates workflows
-
-### **6. Production-ready Output**
-
-* Complete full‑stack application
-* Zero vendor lock-in
-* Git/GitHub-friendly structure
-* Extensible and customizable
-
+<img width="2816" height="1536" alt="Gemini_Generated_Image_h5023ch5023ch502" src="https://github.com/user-attachments/assets/0fecb6af-7f33-4977-a2c5-1c0e8671f55a" />
 ---
 
 #  **System Architecture Overview**
 
-Forge AI uses a layered multi-agent architecture:
 
-### **1. User Interaction Layer**
 
-Natural language instructions via CLI or Web UI.
-
-### **2. Orchestration Layer (LangChain + LangGraph)**
-
-Responsible for workflow management, agent coordination, and context sharing.
-
-### **3. Specialized Agents**
-
-* Frontend Scanner Agent
-* Backend Agent
-* Database Agent
-* Integrator Agent
-* Redaction and Security Layer
-
-### **4. Code Synthesis & Integration Layer**
-
-Generates and links files, maintains consistency, resolves conflicts.
-
-### **5. Storage Layer**
-
-* Vector DB (FAISS/Chroma)
-* Metadata Store (SQLite/Postgres)
-* Artifact Store for manifests, summaries, logs
-
-### **6. Deployment & Output Layer**
-
-Builds a production-ready project (frontend + backend + DB).
 
 ---
 
