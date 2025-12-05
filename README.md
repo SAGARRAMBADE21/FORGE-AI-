@@ -1,4 +1,4 @@
-<img width="2816" height="1536" alt="Gemini_Generated_Image_v0hpvhv0hpvhv0hp" src="https://github.com/user-attachments/assets/9e63c3f5-e174-444f-b786-537d9625d49e" /> 🔥 **Forge AI – Autonomous Full-Stack Code Generation Platform**
+ 🔥 **Forge AI – Autonomous Full-Stack Code Generation Platform**
 
 ---
 
